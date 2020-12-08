@@ -6,7 +6,6 @@ if(!isset($_SESSION['username'])){
 }
 ?>
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -116,7 +115,7 @@ if(!isset($_SESSION['username'])){
         </div>    
     </div>
 
-    <!-- custom script -->
+    <!-- custom scripts -->
     <script src="script/home.js"></script>
     <script src="script/kk.js"></script>
 </body>
